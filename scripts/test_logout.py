@@ -1,0 +1,3 @@
+class TestLogout:
+
+    pass
