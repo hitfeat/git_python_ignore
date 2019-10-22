@@ -13,5 +13,5 @@ class TestHello:
         print("hello5")
 
     def test_hello6(self):
-        print("hello6")
+        print("hello67777")
 
