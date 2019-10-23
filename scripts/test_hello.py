@@ -8,6 +8,7 @@ class TestHello:
         
     def test_hello3(self):
         print("hello3")
+        assert False
 
     def test_hello5(self):
         print("hello5")
